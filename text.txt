@@ -1,0 +1,39 @@
+[2019] EWHC 548 (QB)
+Case No HQ16CO3343
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+Date 08/03/2019
+Mr Kwaku Keh (The Administrator of the Estate of Adeline Keh, Deceased)Claimant
+Homerton University Hospitals NHS Foundation TrustDefendant
+Mr Giles Mooney (instructed by Universa Law Ltd) for the Claimant
+Mr Angus McCullough
+QC (instructed by Bevan Brittan LLP) for the Defendant
+Hearing dates 19th, 20th, 21st, 22nd and 25th February 2019
+Approved Judgment
+I direct that pursuant to CPR PD 39A para 61 no official shorthand note shall be taken of this Judgment and that copies of this version as handed down may be treated as authentic
+Mr Justice Stewart
+Mr Justice Stewart
+Introduction
+1 On 9th October 2013 Mrs Adeline Keh (the deceased), who had been born on 14th January 1973, died as a result of sepsis caused by an infection in the operation wound in her uterus The operation wound related to a caesarean section carried out on 18th September 2013 when her child, Mawusi, was delivered
+The issues in outline
+4 There are three bases upon which it is said that the Defendant acted negligently so as to cause the deceased's death
+5 The first basis is that there was always a high risk that induction would be unsuccessful and that labour would result in an urgent C-section It is said that the deceased should have been warned of the risk and offered a C-section at the outset Had she been so warned, the Claimant says that the deceased would have elected to go straight to a C-section These issues arise  
+6 As to causation the Claimant says that most C-sections do not result in infections Relying on Chester v AfsharUNKELR1 the Claimant submits that it is sufficient to establish that, had the C-section taken place at a different time to when it actually did, then infection would probably have been avoided, even if the risk of infection was unaltered by the timing of the operation The Defendant's case is that the microbiologists agree that the infective organism derived from the deceased's skin which was implanted into the deep surgical site during the caesarean section On that basis, a caesarean section carried out prior to 18th September 2013 would probably have caused the infection The oral evidence of the microbiologists needs careful examination on this point
+8 The third basis is that between 22nd September 2013 and 5th October 2013 there was a negligent failure to consider and perform a hysterectomy
+9 There is a measure of agreement on some issues, namely 
+a CT scan should have taken place on 3rd October 2013, rather than 4th October 2013 The CT scan ordered on 3rd October 2013 was cancelled, and for some reason delayed until the following day
+The Defendant was also in breach of duty in failing to have a consultant review on 3rd – 5th October 2013 The first such review took place on 6th October 2013
+The source of the deceased's infection was the uterus; a hysterectomy performed on or before 5th October 2013 would probably have prevented the deceased's death
+10 Therefore, the battleground on the third basis is breach of duty Was it negligent not to have performed a hysterectomy by 5th October 2013 at the latest? If it was then causation is not disputed
+Witness evidence
+[2004] UKHL 41
+[2005] 1 AC 134
+ii) For the Defendant2
+a) Mr Dorman, consultant obstetrician and gynaecologist with the Defendant — witness statement 18th April 2018
+b) Doctor Ravikumar, now speciality doctor in obstetric ultrasound; in 2013 a specialist registrar in obstetrics and gynaecology with the Defendant — witness statement 16th April 2018
+c) Miss Arpita Ray, now consultant gynaecologist and reproductive medicine specialist; in 2013 a locum consultant in obstetrics and gynaecology with the Defendant – witness statements 15th April 2018 and 11th September 2018
+[1957] 1 WLR 583
+[1984] 1 WLR 634
+[1998] AC 232
